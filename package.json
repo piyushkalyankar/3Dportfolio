@@ -1,0 +1,18 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "This project is about creating 3d portfolio",
+  "main": "index.js",
+  
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.7"
+  },
+
+  "author": "Piyush Kalyankar",
+  "license": "ISC"
+}
